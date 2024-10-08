@@ -1,0 +1,9 @@
+div{
+    width: 30%;
+    background-color: rgba(0, 0, 250, 0.234);
+    height: 600px;
+}   
+li:hover{
+    background-color: rgb(227, 142, 62);
+    font-size: 20px;
+}
